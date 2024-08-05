@@ -1,5 +1,6 @@
 [package]
 name = "dir-tree-cli"
+description = "command-line tool written in Rust that displays the folder structure of a specified directory in a tree-like format"
 version = "0.1.0"
 edition = "2021"
 authors = ["Aurimar Lopes"]
