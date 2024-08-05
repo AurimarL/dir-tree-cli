@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Aurimar Lopes"]
 license = "MIT"
+exclude = [".github/*"]
 
 [dependencies]
 clap = "4.5.13"
@@ -12,4 +13,4 @@ serde_json = "1.0"
 
 [[bin]]
 name = "dtc"
-path = "src/main.rs" 
+path = "src/main.rs"
